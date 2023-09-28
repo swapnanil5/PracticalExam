@@ -55,7 +55,7 @@ public class Test2 {
 				num1 = s.nextInt();
 				System.out.println("enter second No.: ");
 				num2 = s.nextInt();
-				System.out.println("multiplication of two numbers is: " + (num1 + num2));
+				System.out.println("multiplication of two numbers is: " + (num1 * num2));
 				break;
 			
 			//division
@@ -64,7 +64,7 @@ public class Test2 {
 				num1 = s.nextInt();
 				System.out.println("enter second No.: ");
 				num2 = s.nextInt();
-				System.out.println("division of two numbers is: " + (num1 + num2));
+				System.out.println("division of two numbers is: " + (num1 / num2));
 				break;
 			
 				
